@@ -1,247 +1,123 @@
-﻿[
-      {
-        "questao": "Na situação quando os espanhóis chegaram na América e ocorreu uma estendia de poder de diversos países, após isso a sociedade deixou os legados do que?",
-        "alternativas": [
-          "Dos bens religiosos inspirados na matriz cristã",
-          "Materiais bélicos pilhados em batalhas coloniais",
-          "Heranças culturais constituídas de saberes próprios",
-          "Costumes laborais moldados em estilos estrangeiros", 
-          "Práticas medicinais alicerçadas no conhecimento científico" 
-        ],
-        "correta": 3
-      },
-      {
-        "questao": "entre as primeiras categorias de trabalhadores, no quesito da organização, associações a seguir, intervenção dos poderes públicos e etc, na década de 1880 o que aconteceu durante a arena política?",
-        "alternativas": [
-          "manutenção das regras patronais",
-          "desprendimento das ideias líberais",
-          "fortalecimento dos contratos laborais",
-          "consolidação das estruturas sindicais",
-          "constestação dos princípios monárquicos"
-        ],
-        "correta": 5
-      },
-      {
-        "questao": "Entre o texto I e II, se baseia na revolução inglesa e também o combate a favor do Iluminiso e do Liberalismo, isso graças ao Parlamento contra o Carlos I, mas no se destaca nesses dois textos representados?",
-        "alternativas": [
-          "Pluralidade das demandas sociais",
-          "Homogeneidade das lutas religiosas",
-          "Unicidade das abordagens históricas",
-          "superficialidade dos interesses políticos", 
-          "superioridade dos aspectos econômicos"
-        ],
-        "correta": 1
-      },
-      {
-        "questao": "Quando você fica perplexo ao ler o documento que fala sobre abolicionismo do Brasil, referente as atividades remuneradas, oq elas se tratam?",
-        "alternativas": [
-          "jamais foi negada aos cativos e seus descendentes",
-          "foi obtida pelos ex-escravos tão logo a abolição fora decretada",
-          "não era incompatível com a escravidão",
-          "ainda hoje continua incompleta para mihões de brasileiros",
-          "consiste no direito de eleger deputados"
-        ],
-        "correta": 4
-      },
-      {
-            "questao": "Na constituição de 1824, reza a lenda de que havia um poder moderador que era a chave e o delegado de toda organização política e privatimente ao Impedor, o imperador pode dissolver a Câmara dos Deputados, sendo representante do povo e etc. Nesse caso, houve um vote sobre o juramente do projeto de Constituição, por causa de que?",
-            "alternativas": [
-              "Por conta de que o funcionamento de uma monarquia constitucional é adequeado, de acordo com os escolhidos pelo Imperador",
-              "É eficaz e responsável pela liberdade dos povos, porque garantia a representação da sociedade nas duas esferas do poder legislativo",
-              "arbritário, porque permitia ao Imperador dissolver a Câmara dos Deputados, o poder representativo da sociedade",
-              "neutro e fraco, especialmente nos momentos da crise, pois era incapaz de controlar os deputados representantes da Nação",
-              "capaz de responder às exigências políticas da nação, pois supria as deficiências da representação política"
-            ],
-            "correta": 3
-          },
-          {
-            "questao": "Sabendo-se que o compromisso assumido por Hitler em 1938, foi rompido pelo líder alemão em 1939, intere-se que",
-            "alternativas": [
-              "Hitler abicionava o controle de mais territórios na Europa além da região dos Sudetos",
-              "A aliança entre a Inglaterra, a França e a Rússia poderia ter salvado a Tchecoslováquia",
-              "O rompimento desse compromisso inspirou a política de 'apaziguamento europeu",
-              "a política de Chamberlain de apaziguar o líder alemão era contrária à posição assumida pelas potências aliadas",
-              "a forma que Chamberlain escolheu para lidar com o problema dos Sudetos deu origem à destruição da Tchecoslováquia"
-            ],
-            "correta": 1
-          },
-          {
-            "questao": "Sabendo-se que o compromisso assumido por Hitler em 1938, foi rompido pelo líder alemão em 1939, intere-se que",
-            "alternativas": [
-              "Hitler abicionava o controle de mais territórios na Europa além da região dos Sudetos",
-              "A aliança entre a Inglaterra, a França e a Rússia poderia ter salvado a Tchecoslováquia",
-              "O rompimento desse compromisso inspirou a política de 'apaziguamento europeu",
-              "a política de Chamberlain de apaziguar o líder alemão era contrária à posição assumida pelas potências aliadas",
-              "a forma que Chamberlain escolheu para lidar com o problema dos Sudetos deu origem à destruição da Tchecoslováquia"
-            ],
-            "correta": 3
-          },
-          {
-            "questao": "O ano de 476 d.C., época da queda do Império Romano do Ocidente, tem sido usado como marco para o início da Idade Média. De acordo com a escala de tempo apresentada no texto, que considera como ponto de partida o início da Era Cristã, pode-se afirmar que",
-            "alternativas": [
-              "as Grandes Navegações tiveram início por volta das quinze horas",
-              "a Idade Moderna teve início um pouco antes das dez horas",
-              "o Cristianismo começou a ser propagado na Europa no início da Idade Média",
-              "as peregrinações do apóstolo Paulo ocorreram após os primeiros 150 anos da Era Cristã",
-              "os mosteiros perderam o monopólio da educação no final da Idade Média"
-            ],
-            "correta": 1
-          },
-          {
-            "questao": "Segundo o texto, durante a ditadura chilena na década de 1970, a relação entre os poderes Executivo e Judiciário caracterizava-se pela ",
-            "alternativas": [
-              "Isonomia — igualdade de tratamento aos cidadãos",
-              "Transparência — acesso às informações governamentais",
-              "Tripartição — separação entre os poderes políticos estatais",
-              "Equiparação — igualdade de gênero na participação política",
-              "Elegibilidade — permissão para candidatura aos cargos públicos"
-            ],
-            "correta": 1
-          },
-          {
-            "questao": "No âmbito do Poder Legislativo brasileiro, a tentativa de reverter esse quadro de sub-representação tem envolvido a implementação, pelo Estado, de ",
-            "alternativas": [
-              "leis de combate à violência doméstica",
-              "cotas de gênero nas candidaturas partidárias",
-              "programas de mobilização política nas escolas",
-              "propagandas de incentivo ao voto consciente",
-              "apoio financeiro às lideranças femininas"
-            ],
-            "correta": 2
-          },
-          {
-            "questao": "بالنظر إلى الحركات السياسية المذكورة في النص ، سمح الوصول إلى الإنترنت للشباب العربي ",
-            "alternativas": [
-              "تعزيز دور الأنظمة السياسية القائمة",
-              "كن على دراية بالحقائق دون التورط",
-              "حافظ على المسافة اللازمة لسلامتك",
-              "نشر فيروسات قادرة على تدمير برامج الكمبيوتر",
-              "نشر الأفكار الثورية التي حشدت السكان"
-            ],
-            "correta": 5
-          },
-          {
-            "questao": "Cinco pessoas responderam informando preços por hora trabalhada, gasto diário com transporte e tempo necessário para conclusão do serviço, conforme valores apresentados no quadro",
-            "alternativas": [
-              "120 x 8 + 0 = 960",
-              "180 x 6 + 0 = 1080", 
-              "170 x 6 + 20 = 1020 + 20 = 1040", 
-              "110 x 9 + 10 = 990 + 10 = 1000",
-              "110 x 10 + 0 = 1100 + 0 = 1100"
-            ],
-            "correta": 1
-          },
-          {
-            "questao": "A forma geométrica da superfície cujas arestas estão representadas na Figura 2 é",
-            "alternativas": [
-              "tetraedro",
-              "pirâmide retangular", 
-              "tronco de piramide retangular", 
-              "prisma quadrangular reto",
-              "prisma triangular reto"
-            ],
-            "correta": 5
-          },
-          {
-            "questao": "Um sinalizador de trânsito tem o formato de um cone circular reto. O sinalizador precisa ser revestido externamente com adesivo fluorescente, desde sua base (base do cone) até a metade de sua altura, para sinalização noturna. O responsável pela colocação do adesivo precisa fazer o corte do material de maneira que a forma do adesivo corresponda exatamente à parte da superfície lateral a ser revestida. Qual deverá ser a forma do adesivo? ",
-            "alternativas": [
-              "A",
-              "B", 
-              "C", 
-              "D",
-              "E"
-            ],
-            "correta": 5
-          },
-          {
-            "questao": "Se o percurso de Dean Karnazes fosse também em uma pista reta, qual seria a escala entre a pista feita pelo professor e a percorrida pelo atleta?",
-            "alternativas": [
-              "1:700",
-              "1:7 000", 
-              "1:70 000", 
-              "1:70 000",
-              "1:7 000 000"
-            ],
-            "correta": 4
-          },
-          {
-            "questao": "O quadro seguinte mostra o desempenho de um time de futebol no último campeonato. A coluna da esquerda mostra o número de gols marcados e a coluna da direita informa em quantos jogos o time marcou aquele número de gols",
-            "alternativas": [
-              "X = Y < Z",
-              "Z < X = Y", 
-              "Y < Z < X", 
-              "Z < X < Y",
-              "Z < Y < X"
-            ],
-            "correta": 5
-          },
-          {
-            "questao": "As cidades de Quito e Cingapura encontram-se próximas à linha do equador e em pontos diametralmente opostos no globo terrestre. Considerando o raio da Terra igual a 6370 km, pode-se afirmar que um avião saindo de Quito, voando em média 800 km/h, descontando as paradas de escala, chega a Cingapura em aproximadamente",
-            "alternativas": [
-              "16 horas",
-              "20 horas", 
-              "25 horas", 
-              "32 horas",
-              "36 horas"
-            ],
-            "correta": 3
-          },
-          {
-            "questao": "Considerando o modelo acima descrito, se o público-alvo é de 44.000 pessoas, então a máxima rapidez de propagação ocorrerá quando o boato for conhecido por um número de pessoas igual a",
-            "alternativas": [
-              "11.000",
-              "22.000", 
-              "33.000", 
-              "38.000",
-              "44.000"
-            ],
-            "correta": 2
-          },
-          {
-            "questao": "A meia-vida do antibiótico amoxicilina é de 1 hora. Assim, se uma dose desse antibiótico for injetada às 12h em um paciente, o percentual dessa dose que restará em seu organismo às 13h30min será aproximadamente de",
-            "alternativas": [
-              "10%",
-              "15%", 
-              "25%", 
-              "35%",
-              "50%"
-            ],
-            "correta": 4
-          },
-          {
-            "questao": "O deslocamento descrito por João foi: mova-se pela pirâmide, sempre em linha reta, do ponto A ao ponto E, a seguir do ponto E ao ponto M, e depois de M a C. O desenho que Bruno deve fazer é",
-            "alternativas": [
-              "A",
-              "B", 
-              "C", 
-              "D",
-              "E"
-            ],
-            "correta": 3
-          },
-          {
-            "questao": "Estimativas indicam que, com a adição de 4% de biodiesel ao dísel, serão consumidos 925 milhões de litros de biodiesel no segundo semestre de 2009. Considerando-se essa estimativa, para o mesmo volume da mistura final dísel/biodiesel consumida no segundo semestre de 2009, qual seria o consumo de biodiesel com a adição de 3%?",
-            "alternativas": [
-              "27,75 milhões de litros",
-              "37,00 milhões de litros", 
-              "231,25 milhões de litros", 
-              "693,75 milhões de litros",
-              "888,00 milhões de litros"
-            ],
-            "correta": 4
-          },
-          {
-            "questao": "κείμενο μας επιτρέπει συμπεράνουμε ότι η γεωργία άρχισε ασκείται περίπου",
-            "alternativas": [
-              "365",
-              "460", 
-              "900", 
-              "10000",
-              "460000"
-            ],
-            "correta": 4
-          }
+﻿{
+  "questoes": [
+    {
+      "enunciado": "(Enem 1998) Você está estudando o abolicionismo no Brasil...",
+      "alternativas": [
+        "A jamais foi negada aos cativos e seus descendentes.",
+        "B foi obtida pelos ex-escravos tão logo a abolição fora decretada.",
+        "C não era incompatível com a escravidão.",
+        "D ainda hoje continua incompleta para milhões de brasileiros.",
+        "E consiste no direito de eleger deputados."
+      ],
+      "correta": "D"
+    },
+    {
+      "enunciado": "(ENEM - 2022)\nPara os Impérios Coloniais, o problema das doenças...",
+      "alternativas": [
+        "A econômicos das elites.",
+        "B naturalistas dos viajantes.",
+        "C abolicionistas dos letrados.",
+        "D tradicionalistas dos nativos.",
+        "E emancipadores das metrópoles."
+      ],
+      "correta": "A"
+    },
+    {
+      "enunciado": "(ENEM - 2005)\nZuenir Ventura, em seu livro Minhas memórias dos outros...",
+      "alternativas": [
+        "A a conspiração envolvendo o jornalista Carlos Lacerda é um dos elementos do desfecho trágico e o recuo da ação de políticos conservadores devido ao impacto da reação popular.",
+        "B a tentativa de assassinato sofrida pelo jornalista Carlos Lacerda por apoiar os assessores do presidente que discordavam de suas ideias e o avanço dos conservadores foi intensificado pela ação dos militares.",
+        "C o presidente sentiu-se impotente para atender a seus inimigos, como Carlos Lacerda, que o pressionavam contra a ditadura e os aliados do presidente teriam que aguardar mais uma década para concretizar a democracia progressista.",
+        "D o jornalista Carlos Lacerda foi responsável direto pela morte do presidente e este fato veio impedir definitivamente a ação de grupos conservadores.",
+        "E o presidente cometeu o suicídio para garantir uma definitiva e dramática vitória contra seus acusadores e oferecendo a própria vida Vargas facilitou as estratégias de regimes autoritários no país."
+      ],
+      "correta": "A"
+    },
+    {
+      "enunciado": "(Enem 2002)\nMichel Eyquem de Montaigne (1533-1592) compara, nos trechos, as guerras das sociedades Tupinambá...",
+      "alternativas": [
+        "A ideia de relativismo cultural baseia-se na hipótese da origem única do gênero humano e da sua religião.",
+        "B a diferença de costumes não constitui um critério válido para julgar as diferentes sociedades.",
+        "C os indígenas são mais bárbaros do que os europeus, pois não conhecem a virtude cristã da piedade.",
+        "D a barbárie é um comportamento social que pressupõe a ausência de uma cultura civilizada e racional.",
+        "E a ingenuidade dos indígenas equivale à racionalidade dos europeus, o que explica que os seus costumes são similares."
+      ],
+      "correta": "B"
+    },
+    {
+      "enunciado": "(ENEM - 1999)\nEm dezembro de 1998, um dos assuntos mais veiculados nos jornais era o que tratava da moeda única europeia...",
+      "alternativas": [
+        "A ascensão das classes populares aos mesmos padrões de vida da burguesia e da nobreza.",
+        "B o desenvolvimento de métodos de planejamento urbano aumentava a eficiência do trabalho industrial.",
+        "C a construção de núcleos urbanos integrados por meios de transporte facilitava o deslocamento dos trabalhadores das periferias até as fábricas.",
+        "D a grandiosidade dos prédios onde se localizavam as fábricas revelava os avanços da engenharia e da arquitetura do período, transformando as cidades em locais de experimentação estética e artística.",
+        "E o alto nível de exploração dos trabalhadores industriais ocasionava o surgimento de aglomerados urbanos marcados por péssimas condições de moradia, saúde e higiene."
+      ],
+      "correta": "E"
+    },
+    {
+      "enunciado": "(Enem - 2004)\nAlgumas transformações que antecederam a Revolução Francesa podem ser exemplificadas pela mudança de significado da palavra \"restaurante\"...",
+      "alternativas": [
+        "A simplicidade da organização social das tribos brasileiras",
+        "B dominação portuguesa imposta aos índios no início da colonização.",
+        "C superioridade da sociedade europeia em relação à sociedade indígena",
+        "D incompreensão dos valores socioculturais indígenas pelos portugueses.",
+        "E dificuldade experimental pelos portugueses no aprendizado da língua nativa."
+      ],
+      "correta": "B"
+    },
+    {
+      "enunciado": "(ENEM - 2018)\nEsse ônibus relaciona-se ao ato praticado, em 1955, por Rosa Parks...",
+      "alternativas": [
+        "Impacto do medo da corrida armamentista.",
+        "Democratização do acesso à escola pública.",
+        "Preconceito de gênero no transporte coletivo.",
+        "Deflagração do movimento por igualdade civil.",
+        "Eclosão da rebeldia no comportamento juvenil."
+      ],
+      "correta": "D"
+    },
+    {
+      "enunciado": "(Enem - 2012)\nCom sua entrada no universo dos gibis, o Capitão chegaria para apaziguar a agonia, o autoritarismo militar e combater a tirania...",
+      "alternativas": [
+        "A democratização do acesso à escola pública.",
+        "A supremacia norte-americana na corrida espacial.",
+        "A segregação racial nos Estados Unidos.",
+        "A deflagração do movimento feminista.",
+        "O poder do capital financeiro internacional."
+      ],
+      "correta": "D"
+    },
+    {
+      "enunciado": "(ENEM - 2015)\nA Inglaterra pedia lucros e recebia lucros...",
+      "alternativas": [
+        "A facilidade em se estabelecerem relações lucrativas transformava as cidades em espaços privilegiados para a livre iniciativa, característica da nova sociedade capitalista.",
+        "O desenvolvimento de métodos de planejamento urbano aumentava a eficiência do trabalho industrial.",
+        "A construção de núcleos urbanos integrados por meios de transporte facilitava o deslocamento dos trabalhadores das periferias até as fábricas.",
+        "A grandiosidade dos prédios onde se localizavam as fábricas revelava os avanços da engenharia e da arquitetura do período, transformando as cidades em locais de experimentação estética e artística.",
+        "O alto nível de exploração dos trabalhadores industriais ocasionava o surgimento de aglomerados urbanos marcados por péssimas condições de moradia, saúde e higiene."
+      ],
+      "correta": "A"
+    },
 
 
+    {
+      "questao": "بالنظر إلى الحركات السياسية المذكورة في النص ، سمح الوصول إلى الإنترنت للشباب العربي ",
+      "alternativas": [
+        "تعزيز دور الأنظمة السياسية القائمة",
+        "كن على دراية بالحقائق دون التورط",
+        "حافظ على المسافة اللازمة لسلامتك",
+        "نشر فيروسات قادرة على تدمير برامج الكمبيوتر",
+        "نشر الأفكار الثورية التي حشدت السكان"
+      ],
+      "correta": 5
+    }
+    
+  ]
 
-    ]
+} 
+
+          
+  
+
+  

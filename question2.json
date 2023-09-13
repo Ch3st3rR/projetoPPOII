@@ -1,0 +1,118 @@
+{
+  "questoes": [
+    {
+        "enunciado": "Em uma sala de cinema, para garantir que os espectadores vejam toda a imagem projetada na tela...",
+        "alternativas": [
+          "A 26",
+          "B 27",
+          "C 28",
+          "D 29",
+          "E 35"
+        ],
+        "correta": "C"
+      },
+      {
+        "enunciado": "A Transferência Eletrônica Disponível (TED) é uma transação financeira de valores entre diferentes bancos...",
+        "alternativas": [
+          "A 1.",
+          "B 2.",
+          "C 3.",
+          "D 4.",
+          "E 5."
+        ],
+        "correta": "A"
+      },
+      {
+        "enunciado": "Antes de uma eleição para prefeito, certo instituto realizou uma pesquisa em que foi consultado um número significativo de eleitores...",
+        "alternativas": [
+          "A apenas o candidato X poderia vencer e, nesse caso, teria 39% do total de votos.",
+          "B apenas os candidatos X e Y teriam chances de vencer.",
+          "C o candidato Y poderia vencer com uma diferença de até 5% sobre X.",
+          "D o candidato Z poderia vencer com uma diferença de, no máximo, 1% sobre X.",
+          "E o candidato Z poderia vencer com uma diferença de até 5% sobre o candidato Y."
+        ],
+        "correta": "D"
+      },
+      {
+        "enunciado": "A sombra de uma pessoa que tem 1,80 de altura mede 60cm. No mesmo momento, a seu lado, a sombra projetada de um poste mede 2,00 m...",
+        "alternativas": [
+          "A 30 cm.",
+          "B 45 cm.",
+          "C 50 cm.",
+          "D 80 cm.",
+          "E 90 cm."
+        ],
+        "correta": "B"
+      },
+      {
+        "enunciado": "Em um colégio, 40% da arrecadação das mensalidades correspondem ao pagamento dos salários dos seus professores...",
+        "alternativas": [
+          "A o diretor fez um cálculo incorreto e o reajuste proposto nas mensalidades não é suficiente para cobrir os gastos adicionais.",
+          "B o diretor fez os cálculos corretamente e o reajuste nas mensalidades que ele propõe cobrirá exatamente os gastos adicionais.",
+          "C a associação está correta em não concordar com o índice proposto pelo diretor, pois a arrecadação adicional baseada nesse índice superaria em muito os gastos adicionais.",
+          "D a associação, ao recusar o índice de reajuste proposto pelo diretor, não levou em conta o fato de alunos carentes pagarem mensalidades reduzidas.",
+          "E o diretor deveria ter proposto um reajuste maior nas mensalidades, baseado no fato de que a metade dos alunos paga mensalidades reduzidas."
+        ],
+        "correta": "C"
+      },
+      {
+        "enunciado": "Quatro estações distribuidoras de energia  e  estão dispostas como vértices de um quadrado de  de lado...",
+        "alternativas": [
+          "A 9",
+          "B 11",
+          "C 13",
+          "D 15",
+          "E 17"
+        ],
+        "correta": "C"
+      },
+      {
+        "enunciado": "A duração do efeito de alguns fármacos está relacionada à sua meia-vida, tempo necessário para que a quantidade original do fármaco no organismo se reduza à metade...",
+        "alternativas": [
+          "A 10%",
+          "B 15%",
+          "C 25%",
+          "D 35%",
+          "E 50%"
+        ],
+        "correta": "D"
+      },
+      {
+        "enunciado": "Um laboratório realiza exames em que é possível observar a taxa de glicose de uma pessoa. Os resultados são analisados de acordo com o quadro a seguir...",
+        "alternativas": [
+          "A hipoglicemia.",
+          "B normal",
+          "C pré-diabetes.",
+          "D diabetes melito.",
+          "E hiperglicemia."
+        ],
+        "correta": "D"
+      },
+      {
+        "enunciado": "Um investidor inicia um dia com x ações de uma empresa. No decorrer desse dia, ele efetua apenas dois tipos de operações, comprar ou vender ações...",
+        "alternativas": [
+          "A 3.",
+          "B 4.",
+          "C 5.",
+          "D 6.",
+          "E 7."
+        ],
+        "correta": "B"
+      },
+    
+  {
+    "questao": "κείμενο μας επιτρέπει συμπεράνουμε ότι η γεωργία άρχισε ασκείται περίπου",
+    "alternativas": [
+      "365",
+      "460", 
+      "900", 
+      "10000",
+      "460000"
+    ],
+    "correta": 4
+  }
+    
+]
+
+}
+
